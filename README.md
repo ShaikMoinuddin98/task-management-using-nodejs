@@ -102,6 +102,7 @@ Clicking the checkbox next to a task triggers a POST request to `/update` with t
 
 To delete a task, click on the "Delete" button associated with the task. A POST request is sent to `/delete` with the task name as a query parameter. The task is then removed from the database.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/1ff46707ab4e4457af29cb8cd5a8b29c?sid=dfe1b701-3c90-421d-9105-4d569ca9fd9f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 
