@@ -1,7 +1,11 @@
 
 # Task Management Using Nodejs,Express and MongoDB
 
+## Demo
 
+
+
+https://github.com/ShaikMoinuddin98/task-management-/assets/130903025/c401f874-8167-4da3-9a49-d1f89a6b03cc
 
 
 
@@ -101,11 +105,7 @@ Clicking the checkbox next to a task triggers a POST request to `/update` with t
 ## Deleting Tasks
 
 To delete a task, click on the "Delete" button associated with the task. A POST request is sent to `/delete` with the task name as a query parameter. The task is then removed from the database.
-## Demo
 
-
-
-https://github.com/ShaikMoinuddin98/task-management-/assets/130903025/c401f874-8167-4da3-9a49-d1f89a6b03cc
 
 
 
